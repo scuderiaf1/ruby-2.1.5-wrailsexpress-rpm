@@ -1,4 +1,4 @@
-# ruby-2.1.x-wrailsexpress-rpm
+# ruby-2.1.5-wrailsexpress-rpm
 
 ### How to install
 
