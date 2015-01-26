@@ -2,7 +2,9 @@
 
 ### How to install
 
-### Autoconf version 2.67 or higher is required. Check it autoconf -V 
+### Autoconf 
+* version 2.67 or higher is required. Check it autoconf -V 
+
     cd /tmp
     wget ftp://ftp.pbone.net/mirror/ftp5.gwdg.de/pub/opensuse/repositories/home:/monkeyiq:/centos6updates/CentOS_CentOS-6/noarch/autoconf-2.69-12.2.noarch.rpm
     yum install autoconf-2.69-12.2.noarch.rpm
