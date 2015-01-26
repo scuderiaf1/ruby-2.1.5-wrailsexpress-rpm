@@ -17,7 +17,7 @@
     cd ~/rpmbuild/SOURCES
     wget wget http://ftp.ruby-lang.org/pub/ruby/2.1/ruby-2.1.5.tar.gz
     cd ~/rpmbuild/SPECS
-    wget https://raw.github.com/scuderiaf1/ruby-2.1.x-wrailsexpress/master/ruby21-railsexpress.spec
+    wget https://raw.github.com/scuderiaf1/ruby-2.1.5-wrailsexpress/master/ruby21-railsexpress.spec
     QA_RPATHS=$[ 0x0001|0x0010 ]  rpmbuild -bb ruby21-railsexpress.spec
 
 
